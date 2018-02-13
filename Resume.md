@@ -23,7 +23,7 @@ __Waseda University, School of Education (Shinjuku, Tokyo, Japan)__
 
 `2001`
 
-wrote with Takeshi Kagaya who is member of Lavans, Inc.
+wrote with Takeshi Kagaya who is a member of Lavans, Inc.
 
 https://www.amazon.co.jp/gp/product/4886486045/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4886486045&linkCode=as2&tag=lavans-22&linkId=b541332d6104afdd4b8c3a0a3d08712b
 
@@ -31,7 +31,7 @@ https://www.amazon.co.jp/gp/product/4886486045/ref=as_li_tl?ie=UTF8&camp=247&cre
 
 `2004`
 
-wrote with Akito Sawa who is Certified Public Accountants
+wrote with Akito Sawa who is a Certified Public Accountant
 
 https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4774121509&linkCode=as2&tag=lavans-22&linkId=ec965aa1cacc6b94f6bea4cdcc82ec47
 
