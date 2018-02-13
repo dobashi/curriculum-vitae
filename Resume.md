@@ -25,8 +25,7 @@ __Waseda University, School of Education (Shinjuku, Tokyo, Japan)__
 
 wrote with Takeshi Kagaya who is member of Lavans, Inc.
 
-https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF-%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%A9%E3%82%A4%E3%83%B3/dp/4886486045/ref=sr_1_6?ie=UTF8&qid=1518504559&sr=8-6&keywords=%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF
-
+https://www.amazon.co.jp/gp/product/4886486045/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4886486045&linkCode=as2&tag=lavans-22&linkId=b541332d6104afdd4b8c3a0a3d08712b
 
 ### __To be a Software Engineer familiar with Accounting__
 
@@ -34,8 +33,7 @@ https://www.amazon.co.jp/%E5%9B%B3%E8%A7%A3-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC
 
 wrote with Akito Sawa who is Certified Public Accountants
 
-https://www.amazon.co.jp/%E4%BC%9A%E8%A8%88%E3%81%AB%E5%BC%B7%E3%81%84SE%E3%81%AB%E3%81%AA%E3%82%8B-%E2%80%95%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84%E6%A5%AD%E5%8B%99%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E4%BC%9A%E8%A8%88%E7%9F%A5%E8%AD%98-%E5%AE%9F%E5%8A%9B%E6%B4%BESE%E9%A4%8A%E6%88%90%E3%82%B3%E3%83%BC%E3%82%B9-%E6%B2%A2-%E6%98%AD%E4%BA%BA/dp/4774121509/ref=sr_1_1?s=books&ie=UTF8&qid=1518504695&sr=1-1&keywords=%E5%9C%9F%E6%A9%8B%E3%80%80%E9%9B%85%E4%B9%8B
-
+https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4774121509&linkCode=as2&tag=lavans-22&linkId=ec965aa1cacc6b94f6bea4cdcc82ec47
 
 ## Patents
 
