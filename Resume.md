@@ -1,6 +1,8 @@
 ### Specialized in
 
-Software development. Kotlin/Scala/Java.
+Software Design
+Language: Kotlin/Scala/Java
+Environment: Ubuntu/Docker+alpine/AWS
 
 ### Research interests
 
