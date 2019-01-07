@@ -2,9 +2,9 @@ Last updated: 2018.03.05
 
 ### Specialized in
 
-Software Design
-Language: Kotlin/Scala/Java
-Environment: Ubuntu/Docker+alpine/AWS
+- Software Design
+- Language: Kotlin/Scala/Java
+- Environment: Ubuntu/Docker+alpine/AWS
 
 ### Research interests
 
