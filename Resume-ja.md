@@ -3,7 +3,7 @@
 - 土橋 雅之
 - 住所: 〒106‑0032 東京都港区六本木3‑2‑2 六本木グランドタワーレジデンス511
 - 電話: 050‑5242‑1895
-- Email: dobashi+job@lavans.jp (mailto:dobashi+job@lavans.jp)
+- Email: dobashi+job@lavans.jp
 
 ### 得意分野
 
@@ -34,7 +34,6 @@
 - https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4774121509&linkCode=as2&tag=lavans‑22&linkId=ec965aa1cacc6b94f6bea4cdcc82ec47
 
 ## 特許
-
 ### 金融商品取引入力処理装置及び金融商品取引入力処理方法
 
 - 【発行国】日本国特許庁(JP)
@@ -75,7 +74,8 @@
 ### 1995‑1997 GPS株式会社 (東京都新宿区)
 - 外注作業 日本電気株式会社下請け 伝送路制御システム
 - C/C++/Motif/ HP‑UX/NEC‑EWSなど
-1997‑2018 Lavans, Inc. (Ikebukuro, Tokyo)
+
+### 1997‑2018 Lavans, Inc. (Ikebukuro, Tokyo)
 - 代表取締役社長 (1997‑2018)
 - チームマネジメント(5名以下)
 - ビジネスモデル構築
@@ -88,7 +88,7 @@
 
 ### 1999‑2000 FX online trade for WindowsCE (Java Tomcat, Sybase)
 
-### 1998‑1999 _三井情報株式会社 [客先常駐]
+### 1998‑1999 三井情報株式会社 [客先常駐]
 
 - 連結会計システム
 - プログラムメイン担当
