@@ -152,18 +152,23 @@
 
 ### 2017‑2018 SBICapitalBase (社員)
 - Architect (Kotlin, SparkFramework(Web), Exposed(ORM), Aurora(MySQL), AWS)
-- 内製チームの人員採用が思わしくなくアウトソース化することになり、入社時の業務内容と変わってしまったので退社
+- 内製チームの人員採用が思わしくなくアウトソース化することになり、開発ではなく外注管理のみとなってしまったので退社
 
 ### 2018‑2019 (自社)
 - 仮想通貨決済システム
-- Kotlin, SparkFramework(Web), Exposed(ORM), Vue.js
-
+- Kotlin/SparkFramework(Web)/Exposed(ORM)/ Vue.js
+		
 ### 2019-2020 ExaWizards (常駐:個人業務委託)
 - HR(ヒューマンリソース)部のアセスメントツールの作成(入社時に顧客リリース済みのものを機能拡張)
-- Elixir/Phoenix/Postgres/Docker
+- Elixir/Phoenix/Postgres/Docker/React
 - 部内でプログラミングが一番出来たため、Ver2のアーキ選定を担当、実装開始
   - 機能やServerlessを見据えるとRustを推進したかったが、人材確保の難しさやコミュニティの未成熟度合いから見送る
   - Goを想定していたが「機能が貧弱すぎて面白みがないから初期実装終わったら辞めるかも」と言っていたらKotlinになった
-  
-Last updated: 2020-01-24
+  - Kotlin/Javalin(Web)/Exposed(ORM)/Postgres/React
+
+### 2020-2021 (自社)
+- コミュニティサイト/メールリレーシステム 保守およびメンバー管理
+- Java/Tomcat/JSP/Postgres
+ 
+Last updated: 2021-09-01
 
