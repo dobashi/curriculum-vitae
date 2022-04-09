@@ -4,28 +4,28 @@ MASAYUKI TSUCHIHASHI
 
 - Addr: 511, Roppongi Grand Tower Residence, 3-2-2, Roppongi, Minatoku, Tokyo, Japan
 - Zip: 106-0032
-- Tel: +81-50-5242-1895
+- Tel: +81-80-4110-0800
+- IP-phone: +81-50-5242-1895
 - Email: dobashi+job@lavans.jp
 
-Last updated: 2019.1.8
+Last updated: 2018.03.05
 
 ### Specialized in
 
-- Software Design including Microservices/Infrastructure
+- Software Design
 - Language: Kotlin/Scala/Java
 - Environment: Ubuntu/Docker+alpine/AWS
 
 ### Research interests
 
-Functional Programming, Blockchain, Deep Learning.
+High readable and maintainability architecture, Functional Programming, Deep Learning, (Blockchain).
 
 ## Education
 
 `1991-1995`
 
 __Waseda University, School of Education (Shinjuku, Tokyo, Japan)__
-
-* Degree: B.A in Social Science
+* Degree: Bachelor of Social Science
 * Thesis: "Role and development of venture company in Japanese economic miracle around 1960's"
 * Area of Concentration: Economics
 * Major: Economics, Politics
@@ -52,7 +52,6 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
 ## Patents
 
 ### Input method for financial trade
-
 - Country: Japanese Patent Office
 - Patent Number: 2013-45395
 - Release Date: 2013.3.4
@@ -62,7 +61,6 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
 - Inventor: Masayuki Tsuchihashi
 
 ### Order interface for financial trade
-
 - Country: Japanese Patent Office
 - Patent Number: 2013-89059
 - Release Date: 2013.5.13
@@ -72,20 +70,21 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
 - Inventor: Masayuki Tsuchihashi
 
 ### Patent Search
-
 * Search Page: 
  https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage;
 * Search Keyword: 株式会社ラバンス 
 
 ## Occupation
 
-`1995-1997` __GPS Co., Ltd.__, (Shinjuku, Tokyo)
+`1995-1997`
+__GPS Co., Ltd.__, (Shinjuku, Tokyo)
 
 - Electric communication channel management system (C/C++)
 - Detail Design, Coding, Unit Test, Integration Test, Basic Design
 - Work in Oomori, Tokyo in a subcontractor of NEC
 
-`1997-2000` __Lavans, Inc.__, (Ikebukuro, Tokyo)
+`1997-2000`
+__Lavans, Inc.__, (Ikebukuro, Tokyo)
 
 - C.E.O (1997-2018)
 - Small Team Management
@@ -122,7 +121,6 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
 - Presentation Layer Team Manager (10 members)
 - iOS/Android App Project Manager (Objective-C, Java)
 - Technical Leader of Smartphone online trade system (Java, Oracle, AWS)
-- Architect of SNS trade system(Java Microservices, Scala, Oracle, AWS)
 
 `2015-2016` __Advanced World Systems, Inc.__ (Cebu, Philippines) [client]
 

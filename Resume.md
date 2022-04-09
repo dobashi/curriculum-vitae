@@ -8,14 +8,14 @@ Last updated: 2018.03.05
 
 ### Research interests
 
-Functional Programming, Bloackchain, Deep Learning.
+High readable and maintainability architecture, Functional Programming, Deep Learning, (Blockchain).
 
 ## Education
 
 `1991-1995`
 
 __Waseda University, School of Education (Shinjuku, Tokyo, Japan)__
-* Degree: B.A in Social Science
+* Degree: Bachelor of Social Science
 * Thesis: "Role and development of venture company in Japanese economic miracle around 1960's"
 * Area of Concentration: Economics
 * Major: Economics, Politics
