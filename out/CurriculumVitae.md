@@ -74,7 +74,18 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
  https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage;
 * Search Keyword: 株式会社ラバンス 
 
-## Occupation
+### Others
+
+### SPAN margin calcuration system.
+
+2002 We developed NK225 Future/Option online trading system. I implemented calculate logic of SPAN margin money. This is not just only SPAN calculation, but also include pre-payment logic that consider all orders may be executed or canceled. Basic idea was thougt out by another person, Mr.Aiba, former Money Square Holdings's (FX company) president. I disucussed with him and implement auto calcuration program. This is the first online NK225 trading system with SPAN margin in Japan. And now this pre-payment logic become de-fact standard in Japaan. Our company sold that system to SBI Securities which is the largest online securities trading company in Japan.
+
+### SBI Securities mobile phone 
+2006-2007
+We developed SBI securities stock/margin trade system for cellular phone. I designed whole architect of this system. SBI needs backup site in preparation of main web syste accident. So I dessigned separate mobile-web, backup-web nad ap-server. The Mobile web site has already closed. But instead of that Smartphone site is still available. backup-web and ap-server are also working now and later.
+I was also development team leader of Smartphoe site.
+
+## Career
 
 `1995-1997`
 __GPS Co., Ltd.__, (Shinjuku, Tokyo)
