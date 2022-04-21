@@ -74,7 +74,7 @@ https://www.amazon.co.jp/gp/product/4774121509/ref=as_li_tl?ie=UTF8&camp=247&cre
  https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage;
 * Search Keyword: 株式会社ラバンス 
 
-### Others
+## Others
 
 ### SPAN margin calcuration system.
 
