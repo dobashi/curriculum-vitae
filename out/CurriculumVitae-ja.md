@@ -1,7 +1,7 @@
 # 履歴書
 
 - 土橋 雅之
-- 住所: 〒106‑0032 東京都港区六本木3‑2‑2 六本木グランドタワーレジデンス511
+- 住所: 〒101‑0031 東京都他千代田区東神田2-4-19 ベスティエ秋葉原202
 - 携帯: 080-4110-0800
 - IP電話: 050‑5242‑1895
 - Email: dobashi+job@lavans.jp
@@ -212,7 +212,7 @@
 - コミュニティサイト/メールリレーシステム 保守およびメンバー管理
 - Java/Tomcat/JSP/Postgres
 
-### 2021-2022 株式会社StrategIT
+### 2021-2024 株式会社StrategIT
 - SaaS連携開発チーム責任者
 - 複数のSaaS連携プロジェクトPM、提案、進捗管理、デバッグならびにソース改善
 - 社内環境を自発的改善
@@ -225,7 +225,10 @@
 - 面接・面接用入社課題作成
 - GCP(Firebase), AWS(ECS fargate/DocumentDB/SecretsManager/CloudFormation), React/express/typescitpt, MongoDBなど
 
-Last updated: 2022-04-10
+- 自社システムの構築案件
+- 主にインフラ周りを担当、AWS(Amplify/IAM/Lambda/API Gateway/KMS/SSM/DynamoDB(AppSyncのGraphQL DBとして))
+
+Last updated: 2024-05-28
 
 # その他
 
